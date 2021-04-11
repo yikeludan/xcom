@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xcomRpc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.blI8w4I8ZC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.blI8w4I8ZC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xcomRpc">
+				<Option output="/tmp/tmp.blI8w4I8ZC/cmake-build-debug/xcomRpc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.blI8w4I8ZC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 xcomRpc"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xcomRpc/fast">
+				<Option output="/tmp/tmp.blI8w4I8ZC/cmake-build-debug/xcomRpc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.blI8w4I8ZC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 xcomRpc/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.blI8w4I8ZC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/tmp/tmp.blI8w4I8ZC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XMsg.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XRpcTask.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XRpcTask.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServer.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServer.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServerHandle.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServerHandle.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServerTask.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServerTask.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServiceProxy.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XServiceProxy.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XTask.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XTask.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XThread.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XThread.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XThreadPool.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XThreadPool.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XTools.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XcomTask.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/XcomTask.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/global.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/global.h">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/main.cpp">
+			<Option target="xcomRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.blI8w4I8ZC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
