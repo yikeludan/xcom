@@ -50,11 +50,7 @@ int Tools::sp(const std::string &s, std::vector<std::string> &list,void* ptr,str
         std::cout<<"ptr = "<<ptr<<std::endl;
         bufferevent_write(ptr,"ok2",3);
     }
-  /*  for (auto &kv : bevMap) {
-
-        std::cout<<"kv1 = "<<kv.first<<std::endl;
-    }*/
-
+   
    return 0;
 
 }
